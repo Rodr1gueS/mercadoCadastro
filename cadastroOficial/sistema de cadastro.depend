@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638880789 source:c:\users\reisg\desktop\engenharia\programação de computadores\projetos\sistema de cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1638880789 source:c:\users\igor rodrigues\downloads\sistema de cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
